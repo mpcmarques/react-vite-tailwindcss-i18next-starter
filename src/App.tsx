@@ -5,7 +5,7 @@ function App() {
 	const [count, setCount] = useState(0);
 
 	return (
-		<div className="mt-10 flex flex-col items-center justify-center min-h-full h-screen">
+		<div className="mt-10 flex flex-col items-center justify-center min-h-screen">
 			<div className="flex my-5">
 				<a
 					className="h-full w-full"
